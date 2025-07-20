@@ -1,4 +1,4 @@
-#toperatingsystem/types
+#operatingsystem/types
 
 ## Batch Operating System
 #operatingsystem/types/batch
@@ -39,5 +39,31 @@
 
 
 ## Network Operating System
+#operatingsystem/types/network
 - These systems runs on a server and provides the capability to manage data, users, groups, security, applications and other networking functions.
 - These types of operating systems allows shared access of files, printers, security, applications, and other networking functions over a small private network
+- Important aspect of Network OS is that all users are aware of the underlying configuration, of all other users within the network, their individual connections etc. and thats why these computers are popularly knows as **tightly coupled systems**.
+
+![network operating system diagram](https://files.codingninjas.in/article_images/custom-upload-1682583058.webp)
+
+
+## Real-Time Operating System
+#operatingsystem/types/realtime
+- These OS serves real time systems.
+- The time interval required to process and respond to inputs is very small. 
+- This time interval is called **response time.**
+- **Real-time systems** are used when there are time requirements are very strict like missile systems, air traffic control systems, robots etc.
+
+
+   ## Two types of Real time OS
+    ## Hard Real time OS : 
+     #operatingsystem/types/realtime/hard
+     - These OSs are meant for the applications where the time constraints  are very strict and even the shortest possible delay is not acceptable.
+     - These systems are built for saving life automatic parachutes or air bags which are required to be readily available in case of any accident.
+     - Virtual memory is almost never found in these systems
+
+
+    ## Soft Real time OS: 
+     #operatingsystem/types/realtime/soft
+     - These OS are for applications where for time constraint is less strict
+     
