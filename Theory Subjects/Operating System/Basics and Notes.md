@@ -7,6 +7,7 @@
 
 
 # Operating System
+#operatingsystem/define
    - operating system is the resource manager i.e it can manage the resource of a computer system internally
    - The resources are processor, memory files and I/O devices
    - In simple terms, an operating system is the interface between the user and the machine.
@@ -21,3 +22,8 @@
 - **User interface** -- allows you to communicate with your computer
 
 ## [[Types of Operating System]]
+
+## [[Process]]
+
+## CPU Scheduling
+

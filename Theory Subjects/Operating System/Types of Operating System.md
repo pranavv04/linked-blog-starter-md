@@ -15,9 +15,9 @@
 #operatingsystem/types/timesharingOS
 - Each task has given some time to execute, so that all the tasks work smoothly. 
 - Each user gets time of CPU as they use single system.
-- These systems are also known as Multitasking Systems.
+- **These systems are also known as Multitasking Systems.**
 - The task can be from single user or from different users also.
-- The time that each task gets to execute is called quantum.
+- The time that **each task gets to execute** is called **quantum**.
 - After this time interval is over OS switches over to next task
 
 
