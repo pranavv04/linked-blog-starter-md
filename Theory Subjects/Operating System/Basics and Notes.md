@@ -25,5 +25,5 @@
 
 ## [[Process]]
 
-## CPU Scheduling
+## [[CPU Scheduling]]
 
