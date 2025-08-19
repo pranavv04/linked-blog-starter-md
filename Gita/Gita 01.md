@@ -2,7 +2,55 @@ Bhagavad Gita
 
 The Pandavas—Yudhishthir, Bheem, Arjun, Nakul, and Sahadev—were five noble brothers.heir father, King Pandu, had suffered an unfortunate death while his five sons were still very young. Pandu’s throne had been usurped by his step brother, Dhritarashtra, who was blind from birth. Dhritarashtra had a hundred sons, called the Kauravas, the eldest of whom was Duryodhan. For years, the Kauravas, led by Duryodhan, had victimized their cousins, the Pandavas, and governed over the kingdom of Hastinapur, which did not rightfully belong to them.
 
+
+## Chapter 02
+#chapter02
+
 BG 2.11 - The Blessed Lord said, "You have grieved for those who should not be grieved for; yet, you speak words of wisdom. The wise grieve neither for the living nor for the dead."
+
+Yes, that quote **is absolutely for situations like yours** — it's from **Bhagavad Gita, Chapter 2, Verse 11**, where Lord Krishna tells Arjuna:
+
+> **"You have grieved for those who should not be grieved for, yet you speak words of wisdom. The wise grieve neither for the living nor for the dead."**
+
+---
+
+### 🔍 What it means in your case (like with your ex):
+
+- You're feeling pain and grief over your breakup — naturally, because someone you cared for is no longer in your life.
+    
+- But **Krishna is saying**: this kind of grief, though it feels powerful, comes from misunderstanding the true nature of life and attachment.
+    
+- Your **ex is not yours to possess**, nor are you hers — **everything is temporary**, including relationships, people, and emotions.
+    
+
+---
+
+### 💭 Why Krishna says this:
+
+- The **wise** understand that the soul (or true self) is eternal.
+    
+- People come and go in our lives — but **who you are at your core is untouched** by loss.
+    
+- So the wise don't **cling to the past** or fear death/loss — they focus on **duty (karma), growth, and peace**.
+    
+
+---
+
+### 💡 How to apply this now:
+
+- Instead of drowning in the "what ifs" or "why she left," try saying:  
+    _"This grief is a lesson. She came, and she left — and now it’s **my turn to grow**."_
+    
+- **Don’t suppress** the pain — acknowledge it. But **don’t get trapped** by it either.
+    
+- Shift focus to **who you're becoming**, not who walked away.
+    
+
+---
+
+In short:  
+Yes, **this verse is for you**, and it's Krishna’s way of saying:  
+_"Let go. What you lost is not truly lost. What matters is what you do now."_
 
 Meaning 1
 
@@ -18,6 +66,9 @@ But the soul — the real you, and the real them — never dies.
 
 So stop breaking yourself over what was never meant to last forever
 
+
+
+
 BG 2.14 - The contact of the senses with the objects, O son of Kunti, which causes heat and cold, pleasure and pain, has a beginning and an end; they are impermanent; endure them bravely, O Arjuna.
 
 Meaning
@@ -29,6 +80,9 @@ They’re based on how your senses react to the world.
 Don’t get too happy when things are good. Don’t break down when things are bad.
 
 Just stay steady. Ride the wave like a warrior.”
+
+
+
 
 BG 2.15 - That firm man, whom surely these afflictions do not, O chief among men, to whom pleasure and pain are the same, is fit for attaining immortality.
 
